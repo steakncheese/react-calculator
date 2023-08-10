@@ -1,3 +1,7 @@
+# Credits
+
+This Calculator app is what I learned from the Web Dev Simplified Youtube channel.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
